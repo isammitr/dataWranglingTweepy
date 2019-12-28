@@ -37,4 +37,4 @@ The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their 
   - Testing to check whether the issue has been solved.
   </br>
 The cleaned Data was stored in the `twitter_archive_master.csv` file.</br>
-Further the data was analysed and visualized by drawing insights and conclusions which can also be found in `wrangle_report.md` and `act_report.md` 
+Further the data was analysed and visualized by drawing insights and conclusions which can also be found in `wrangle_report.ipynb` and `act_report.ipynb` 
